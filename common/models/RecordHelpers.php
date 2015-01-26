@@ -26,5 +26,5 @@ class RecordHelpers {
             return $result['id'];
         }
     }
-    
+
 }
