@@ -6,7 +6,7 @@ use yii\jui\DatePicker;
 
 /**
  * @var yii\web\View $this
- * @var app\models\Profile $model
+ * @var frontend\models\Profile $model
  * @var yii\widgets\ActiveForm $form
  */
 ?>

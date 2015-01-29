@@ -6,7 +6,7 @@ use common\models\PermissionHelpers;
 
 /**
  * @var yii\web\View $this
- * @var app\models\Profile $model
+ * @var frontend\models\Profile $model
  */
 
 $this->title = $model->user->username . "'s Profile";
